@@ -78,4 +78,4 @@ http://stackoverflow.com/questions/82831/check-whether-a-file-exists-using-pytho
 
 # Running Program
 
-![Alt text](img/capture1.PNG?raw=true "Titl")
+![Alt text](img/Capture1.PNG?raw=true "Titl")
