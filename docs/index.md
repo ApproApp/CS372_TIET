@@ -59,7 +59,6 @@ After completing a request, ftclient will close the control
 connection to the server.
 ftclient closes the data connection upon exiting.
 
-
 ------------
 Notes
 ------------
@@ -75,3 +74,8 @@ https://docs.python.org/2/howto/sockets.html
 http://learnpythonthehardway.org/book/ex16.html
 http://www.thegeekstuff.com/2012/06/c-directory/
 http://stackoverflow.com/questions/82831/check-whether-a-file-exists-using-python
+
+
+# Running Program
+
+![Alt text](img/capture1.PNG?raw=true "Titl")
