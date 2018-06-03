@@ -78,4 +78,19 @@ http://stackoverflow.com/questions/82831/check-whether-a-file-exists-using-pytho
 
 # Running Program
 
-![Alt text](img/Capture1.PNG?raw=true "Titl")
+## Open 2 Putty Clients
+![Alt text](img/Capture1.PNG?raw=true "Image")
+## input host names press open
+![Alt text](img/Capture2.PNG?raw=true "Image")
+## input id and pwd and start session
+![Alt text](img/Capture3.PNG?raw=true "Image")
+## change directory to scratch
+![Alt text](img/Capture4.PNG?raw=true "Image")
+## Run gcc ftserver.c -o ftserver also make a dummy text file
+![Alt text](img/Capture5.PNG?raw=true "Image")
+## use nano editor to put content use ctrl+o to save ctrl+x to exit 
+![Alt text](img/Capture6.PNG?raw=true "Image")
+## Run commands on flip 2 you will get following outputs at flip1
+![Alt text](img/Capture7.PNG?raw=true "Image")
+## Run commands on flip 2 as given in assignment
+![Alt text](img/Capture8.PNG?raw=true "Image")
